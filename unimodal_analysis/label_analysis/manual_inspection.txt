@@ -1,0 +1,1373 @@
+0 ---------------------------------------------
+INGREDIENTS: 
+{'text': '4 large boneless chicken breasts'}
+{'text': '14 cup flour'}
+{'text': '18 teaspoon salt'}
+{'text': '18 teaspoon pepper'}
+{'text': '12 cup butter'}
+{'text': '1 tablespoon sherry wine'}
+{'text': '1 tablespoon white wine'}
+{'text': '3 tablespoons orange juice'}
+{'text': '1 teaspoon grated orange rind'}
+{'text': '2 teaspoons lemon juice'}
+{'text': '1 cup half-and-half'}
+{'text': '1 lemon, sliced in very thin slices'}
+{'text': '12 cup grated parmesan cheese'}
+--------------------------------------------------
+
+1 ---------------------------------------------
+INGREDIENTS: 
+{'text': '3/4 lb hamburger(may use 1/2 sausage and 1/2 hamburger)'}
+{'text': '1 tomato sauce -lg 29oz can'}
+{'text': '1 diced tomatoes- with garlic,basil,& oregeno 14.5oz can'}
+{'text': '3 tbsp italian seasoning'}
+{'text': '1 tbsp garlic powder'}
+{'text': '1 tbsp onion powder'}
+{'text': '1/4 tsp pepper'}
+{'text': '1/2 tsp sugar'}
+{'text': '3 cup mozzarella cheese shredded'}
+{'text': '1 3/4 cup ricotta cheese- 15oz container'}
+{'text': '1/3 cup parmesan cheese'}
+{'text': '1 tsp italian seasoning'}
+{'text': '1/4 tsp pepper'}
+{'text': '14 -16 manicotti( i make 2 boxs to cover ones that split open)'}
+{'text': '1 cup shredded mozzarella cheese'}
+--------------------------------------------------
+
+2 ---------------------------------------------
+INGREDIENTS: 
+{'text': '7 ounces sweet roasted red peppers, drained and chopped'}
+{'text': '1 garlic clove, pressed'}
+{'text': '1 tablespoon fresh basil leaf, thinly sliced'}
+{'text': '1 cup sour cream'}
+{'text': '1 cup fat-free mayonnaise'}
+{'text': '12 teaspoon Worcestershire sauce'}
+{'text': '18 teaspoon salt'}
+{'text': '1 large green peppers or 1 large red bell pepper'}
+--------------------------------------------------
+
+3 ---------------------------------------------
+INGREDIENTS: 
+{'text': '3/4 cup graham cracker crumbs (about 5 cookie sheets)'}
+{'text': '1/4 teaspoon salt, divided'}
+{'text': '1 tablespoon unsalted butter'}
+{'text': '3 1/2 ounces white chocolate, finely chopped'}
+{'text': 'Cooking spray'}
+{'text': '5 ounces 1/3-less-fat cream cheese, softened'}
+{'text': '1/3 cup powdered sugar'}
+{'text': '1/2 teaspoon vanilla extract'}
+{'text': '2 cups frozen fat-free whipped topping, thawed'}
+{'text': '2 tablespoons seedless peach spread'}
+{'text': '1 tablespoon peach schnapps'}
+{'text': '1/2 teaspoon fresh lemon juice'}
+{'text': '3 medium peeled peaches, pitted and cut into 1/2-inch wedges'}
+--------------------------------------------------
+
+4 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 tomatoes, chopped and seeded'}
+{'text': '2 tablespoons red onions, finely chopped'}
+{'text': '2 tablespoons kraft light house reduced-fat Italian salad dressing'}
+{'text': '20 Ritz simply socials crackers'}
+{'text': '1 fresh basil sprig (optional)'}
+{'text': '1 teaspoon fresh basil, chopped (optional)'}
+{'text': '1 garlic clove, minced (optional)'}
+--------------------------------------------------
+
+5 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 (8 ounce) package linguini pasta'}
+{'text': '1 cup fresh sliced mushrooms'}
+{'text': '1/4 cup chopped onion'}
+{'text': '2 tablespoons butter'}
+{'text': '1/8 teaspoon dried thyme'}
+{'text': '2 tablespoons all-purpose flour'}
+{'text': '1 (10.5 ounce) can condensed chicken broth'}
+{'text': '1 cup half-and-half cream'}
+{'text': '1 (6 ounce) can marinated artichoke hearts'}
+{'text': '1/4 cup grated Parmesan cheese'}
+--------------------------------------------------
+
+6 ---------------------------------------------
+INGREDIENTS: 
+{'text': '5 to 6 ounces peeled and trimmed garlic cloves'}
+{'text': '2 tablespoons Chili and Garlic Oil'}
+--------------------------------------------------
+
+7 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 (14-ounce) can chopped tomatoes'}
+{'text': '3/4 cup extra virgin olive oil'}
+{'text': 'Salt and freshly ground black pepper'}
+{'text': '1 stalk celery, diced'}
+{'text': '1 small carrot, diced'}
+{'text': '1 yellow onion, diced'}
+{'text': '2 cloves garlic, minced'}
+{'text': '1 cup chicken broth'}
+{'text': '1 bay leaf'}
+{'text': '2 tablespoons butter'}
+{'text': '1/4 cup chopped fresh basil leaves'}
+{'text': '1/2 cup heavy cream, optional'}
+--------------------------------------------------
+
+8 ---------------------------------------------
+INGREDIENTS: 
+{'text': '4 c. Pared, cored and sliced tart cooking apples'}
+{'text': '1 1/2 tsp Lemon juice'}
+{'text': '1/2 c. Sugar'}
+{'text': '1/4 c. All-purpose flour'}
+{'text': '1 tsp Cinnamon'}
+{'text': '1/8 tsp Salt'}
+{'text': '1 x 9-inch unbaked pie shell (see note)'}
+{'text': '1/2 pkt (12-ounce) Nestle Toll House butterscotch flavored morsels'}
+{'text': '1/4 c. Butter'}
+{'text': '3/4 c. All-purpose flour'}
+{'text': '1/8 tsp Salt Whipped cream or possibly ice cream (optional)'}
+--------------------------------------------------
+
+9 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 cup boiling water'}
+{'text': '2 Tbsp. MAXWELL HOUSE Instant Coffee'}
+{'text': '1/2 cup plus 1 Tbsp. sugar, divided'}
+{'text': '2 pkg. (3 oz. each) soft ladyfingers, split, divided'}
+{'text': '2 pkg. (8 oz. each) PHILADELPHIA Fat Free Cream Cheese, softened'}
+{'text': '2 cups thawed COOL WHIP LITE Whipped Topping'}
+{'text': '1 tsp. unsweetened cocoa powder'}
+--------------------------------------------------
+
+10 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 slices sandwich bread, tear into quarters (Use a good quality bread, soft whole wheat is OK)'}
+{'text': '3 tablespoons unsalted butter, divided'}
+{'text': '2 tablespoons grated parmesan cheese'}
+{'text': '6 medium garlic cloves, minced (or garlic pressed)'}
+{'text': '2 teaspoons unbleached all-purpose flour'}
+{'text': '18 teaspoon red pepper flakes'}
+{'text': '1 teaspoon minced fresh thyme leave'}
+{'text': '1 12 lbs green beans, ends trimmed'}
+{'text': '1 cup low sodium chicken broth'}
+{'text': '1 tablespoon fresh lemon juice'}
+{'text': 'table salt, to taste'}
+{'text': 'ground black pepper, to taste'}
+--------------------------------------------------
+
+11 ---------------------------------------------
+INGREDIENTS: 
+{'text': '14 cup olive oil'}
+{'text': '1 stalk celery, chopped'}
+{'text': '1 eggplant, cut into 1/2 inch pieces'}
+{'text': 'salt'}
+{'text': '1 red bell pepper, cut into 1/2 inch pieces'}
+{'text': '1 medium onion, chopped'}
+{'text': '14 ounces tomatoes, canned, diced'}
+{'text': '3 tablespoons raisins'}
+{'text': '12 teaspoon dried oregano leaves'}
+{'text': 'fresh ground black pepper, to taste'}
+{'text': '14 cup red wine vinegar'}
+{'text': '2 teaspoons sugar'}
+{'text': '1 tablespoon capers, drained'}
+{'text': '1 loaf ciabatta, cut crosswise into 6 equal pieces'}
+{'text': '2 garlic cloves, peeled'}
+{'text': '6 slices mozzarella cheese, drained fresh, water-packed (1/3-inch-thick)'}
+--------------------------------------------------
+
+12 ---------------------------------------------
+INGREDIENTS: 
+{'text': '8 ounces, weight Cream Cheese, Room Temperature'}
+{'text': '13 cups Sugar'}
+{'text': '4 ounces, weight Semi Sweet Chocolate, Chopped And Divided'}
+{'text': '1 whole Egg'}
+--------------------------------------------------
+
+13 ---------------------------------------------
+INGREDIENTS: 
+{'text': '4 medium potatoes, peeled and quartered, save 1/2 cup cooking liquid'}
+{'text': '14 teaspoon salt, to taste'}
+{'text': '14 teaspoon onion powder, to taste'}
+{'text': '10 ounces pepperoni, diced'}
+{'text': '1 cup frozen corn, thawed'}
+{'text': '1 cup frozen peas, thawed'}
+{'text': '13 cup smooth peanut butter'}
+{'text': '12 cup water'}
+{'text': '1 tablespoon soy sauce'}
+--------------------------------------------------
+
+14 ---------------------------------------------
+INGREDIENTS: 
+{'text': '5'}
+{'text': '1'}
+{'text': '3'}
+{'text': '3'}
+{'text': '1'}
+{'text': '12()'}
+--------------------------------------------------
+
+15 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 cup honey'}
+{'text': '13 cup orange juice, freshly squeezed'}
+{'text': '1 tablespoon butter'}
+{'text': '12 teaspoon orange zest, freshly grated (peel)'}
+--------------------------------------------------
+
+16 ---------------------------------------------
+INGREDIENTS: 
+{'text': '4 navel oranges'}
+{'text': '1/4 cup Nicoise olives, pitted and halved'}
+{'text': '1/2 teaspoon paprika'}
+{'text': '2 tablespoons fresh lemon juice'}
+{'text': '1 tablespoon extra-virgin olive oil'}
+{'text': '2 tablespoons finely chopped fresh flat-leaf parsley, plus whole leaves for garnish'}
+--------------------------------------------------
+
+17 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 Tablespoons Vegetable Oil'}
+{'text': '13 cups Unsweetened Applesauce'}
+{'text': '3 whole Eggs'}
+{'text': '23 cups Brown Sugar'}
+{'text': '3/4 cups Pumpkin Puree'}
+{'text': '3/4 cups Peanut Butter'}
+{'text': '2 teaspoons Cinnamon'}
+{'text': '1- 1/2 teaspoon Baking Powder'}
+{'text': '1 dash Salt'}
+{'text': '1- 1/2 cup Gluten-free All-purpose Flour'}
+{'text': 'Cinnamon And Sugar Dusting'}
+--------------------------------------------------
+
+18 ---------------------------------------------
+INGREDIENTS: 
+{'text': '12 Black tiger shrimp'}
+{'text': '200 grams Ground chicken'}
+{'text': '110 grams Hanpen'}
+{'text': '10 leaves Shiso leaves'}
+{'text': '10 Spring roll wrappers'}
+{'text': '1 dash of each Sake, salt'}
+{'text': '2 tsp soy sauce'}
+{'text': '1 tsp Sesame oil'}
+{'text': '1 as necessary Flour dissolved in water'}
+--------------------------------------------------
+
+19 ---------------------------------------------
+INGREDIENTS: 
+{'text': '13 cup extra-virgin olive oil'}
+{'text': '1 cup sliced onion'}
+{'text': '4 medium green tomatoes'}
+{'text': '23 cup milk'}
+{'text': '23 cup flour'}
+{'text': 'Salt and freshly ground black pepper'}
+--------------------------------------------------
+
+20 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 lb elbow macaroni'}
+{'text': '1.5 (28 ounce) cans diced tomatoes'}
+{'text': '1 lb ground beef'}
+{'text': 'salt and pepper'}
+--------------------------------------------------
+
+21 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 tablespoons butter'}
+{'text': '1 cup finely chopped onion'}
+{'text': '4 cloves garlic, minced'}
+{'text': '4 cups chicken broth'}
+{'text': '1 (2 pound) butternut squash - peeled, seeded, and cut into 1-inch pieces'}
+{'text': '2 teaspoons curry powder'}
+{'text': '1 teaspoon salt'}
+{'text': '1/2 teaspoon ground cumin'}
+{'text': '1/4 teaspoon cayenne pepper'}
+{'text': '1/2 cup half-and-half'}
+{'text': '2 tablespoons honey'}
+{'text': '1/4 cup sour cream, or to taste (optional)'}
+--------------------------------------------------
+
+22 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 12 lbs round steaks, raw, 3/4 to 1 inch thick'}
+{'text': '2 cups onions, coarsely chopped'}
+{'text': '1 12 cups water'}
+{'text': '12 cup mayonnaise'}
+{'text': '14 cup lime juice (juice of 1 lime)'}
+{'text': '2 tablespoons fresh cilantro, finely chopped'}
+{'text': '14 teaspoon ground red pepper'}
+{'text': '1 lime, cut into 8 wedges (for garnish)'}
+--------------------------------------------------
+
+23 ---------------------------------------------
+INGREDIENTS: 
+{'text': '12 cup butter'}
+{'text': '12 cup margarine'}
+{'text': '34 cup brown sugar'}
+{'text': '34 cup sugar'}
+{'text': '2 eggs'}
+{'text': '1 teaspoon vanilla'}
+{'text': '2 12 cups flour'}
+{'text': '1 teaspoon baking soda'}
+{'text': '1 teaspoon salt'}
+{'text': '1 (12 ounce) package chocolate chips'}
+{'text': '1 cup pecans, chopped (optional)'}
+--------------------------------------------------
+
+24 ---------------------------------------------
+INGREDIENTS: 
+{'text': '8 slices bread, cubed'}
+{'text': '2 cups grated American cheese'}
+{'text': '2 lbs bulk sausage, browned and drained'}
+{'text': '4 eggs, beaten'}
+{'text': '2 12 cups milk'}
+{'text': '34 teaspoon dry mustard'}
+{'text': '1 (10 1/2 ounce) can condensed cream of mushroom soup'}
+{'text': '12 cup milk'}
+--------------------------------------------------
+
+25 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 slice lunch meat'}
+{'text': '1 slice cheese'}
+{'text': '4 Ritz crackers'}
+--------------------------------------------------
+
+26 ---------------------------------------------
+INGREDIENTS: 
+{'text': '4 (6 ounce) yellowtail fillets (silver perch and yellowtail snapper are ok substitutes)'}
+{'text': '4 tablespoons ancho chile powder'}
+{'text': '4 tablespoons kosher salt'}
+{'text': '2 tablespoons black pepper'}
+{'text': 'Olive oil'}
+{'text': 'Mango Salsa, recipe follows'}
+{'text': '2 mangoes, small dice'}
+{'text': '1 medium red onion, small dice'}
+{'text': '1 cucumber, peeled, seeded, small dice'}
+{'text': '2 jalapeno peppers, minced'}
+{'text': '1/4 cup cilantro leaves, chopped'}
+{'text': '1/2 tablespoons ancho chile powder'}
+{'text': '2 large limes, juiced'}
+{'text': '2 tablespoons olive oil'}
+{'text': 'Salt'}
+{'text': 'Pepper'}
+--------------------------------------------------
+
+27 ---------------------------------------------
+INGREDIENTS: 
+{'text': '24 ounces whole wheat fusilli'}
+{'text': '12 chopped red bell pepper'}
+{'text': '1 cup chopped broccoli'}
+{'text': '1 cup chopped carrot'}
+{'text': '13 cup chopped onion'}
+{'text': '2 14 ounces black olives (Whole or halved)'}
+{'text': '23 cup fat-free Italian salad dressing'}
+--------------------------------------------------
+
+28 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1/4 cup whole cumin seeds'}
+{'text': '1 1/2-inch piece cinnamon stick'}
+{'text': '2 Tbs. whole coriander seeds'}
+{'text': '1 Tbs. green cardamom pods'}
+{'text': '1/2 tsp. black peppercorns'}
+{'text': '1/2 tsp. red pepper flakes'}
+{'text': '1/2 tsp. whole cloves'}
+--------------------------------------------------
+
+29 ---------------------------------------------
+INGREDIENTS: 
+{'text': '8 hot dogs'}
+{'text': '1 (15 ounce) can chili'}
+{'text': '4 slices whole wheat bread'}
+{'text': '4 slices American cheese'}
+{'text': 'chili powder'}
+--------------------------------------------------
+
+30 ---------------------------------------------
+INGREDIENTS: 
+{'text': '12 cup butter, divided'}
+{'text': '2 cups onions, diced'}
+{'text': '1 cup celery, diced'}
+{'text': '1 cup green bell pepper, diced'}
+{'text': '4 garlic cloves, minced'}
+{'text': '2 tablespoons flour'}
+{'text': '2 (10 ounce) cans Rotel Tomatoes'}
+{'text': '1 (8 ounce) can tomato paste'}
+{'text': '12 cup red wine'}
+{'text': '1 teaspoon salt'}
+{'text': '1 teaspoon ground black pepper'}
+{'text': '1 tablespoon Worcestershire sauce'}
+{'text': '1 tablespoon sugar'}
+{'text': '12 teaspoon basil'}
+{'text': '1 teaspoon thyme'}
+{'text': '2 bay leaves'}
+{'text': '1 bunch parsley, cleaned & finely chopped'}
+{'text': '2 lbs medium shrimp, peeled & deveined'}
+--------------------------------------------------
+
+31 ---------------------------------------------
+INGREDIENTS: 
+{'text': 'Vegetable oil'}
+{'text': '1/2 cup water'}
+{'text': '2 cups sugar'}
+{'text': '1/4 teaspoon cream of tartar'}
+{'text': '1 cup light corn syrup'}
+{'text': '2 teaspoons cinnamon'}
+{'text': '2 tablespoons unsalted butter'}
+{'text': '2 cups roasted, salted cashew nuts (if using unsalted cashew nuts, add 1/8 teaspoon salt with the sugar)'}
+{'text': '1 teaspoon baking soda'}
+--------------------------------------------------
+
+32 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 each orange roughy fillets'}
+{'text': '1 each egg whites'}
+{'text': '3 tablespoons bread crumbs seasoned dried'}
+{'text': '2 teaspoons olive oil or vegetable oil'}
+{'text': '13 cup water'}
+{'text': '1/4 cup wine dry'}
+{'text': '1 tablespoon parsley leaves'}
+{'text': '1 tablespoon lemon juice'}
+{'text': '1/2 teaspoon chicken broth mix'}
+{'text': '1 clove garlic minced'}
+--------------------------------------------------
+
+33 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 pkg. Slice N Bake chocolate chip cookies'}
+{'text': '2 (8 ounce.) pkg. cream cheese, softened'}
+{'text': '1 c. sugar'}
+{'text': '2 Large eggs'}
+{'text': '1 teaspoon vanilla'}
+{'text': '1/2 c. coconut, opt.'}
+--------------------------------------------------
+
+34 ---------------------------------------------
+INGREDIENTS: 
+{'text': 'Mayo:'}
+{'text': '1/4 cup reduced-fat mayonnaise'}
+{'text': '2 tablespoons chopped fresh cilantro'}
+{'text': '1 teaspoon fresh lime juice'}
+{'text': '1 garlic clove, minced'}
+{'text': 'Chicken:'}
+{'text': '1/4 cup egg substitute'}
+{'text': '3 tablespoons hot sauce (such as Tabasco)'}
+{'text': '1 teaspoon dried oregano'}
+{'text': '1/4 teaspoon salt'}
+{'text': '2 (6-ounce) skinless, boneless chicken breast halves'}
+{'text': '4 1/2 ounces baked tortilla chips (about 6 cups)'}
+{'text': '2 tablespoons olive oil'}
+{'text': 'Remaining ingredients:'}
+{'text': '4 (2-ounce) Kaiser rolls, split'}
+{'text': '12 (1/8-inch-thick) red onion slices'}
+{'text': '4 lettuce leaves'}
+--------------------------------------------------
+
+35 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 cups all-purpose flour'}
+{'text': '1 tablespoon green tea powder (matcha)'}
+{'text': '1/2 teaspoon baking soda'}
+{'text': '1/2 teaspoon salt'}
+{'text': '1 cup packed brown sugar'}
+{'text': '3/4 cup unsalted butter, melted'}
+{'text': '1/2 cup white sugar'}
+{'text': '1 tablespoon vanilla extract'}
+{'text': '1 egg'}
+{'text': '1 egg yolk'}
+{'text': '1 1/2 cups white chocolate chips'}
+--------------------------------------------------
+
+36 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 tablespoons olive oil'}
+{'text': '2 carrots, diced'}
+{'text': '4 stalks celery, chopped'}
+{'text': '1 large leek, chopped'}
+{'text': '2 onions, sliced'}
+{'text': '4 bay leaves'}
+{'text': '600 ml red wine'}
+{'text': '14 cup fresh thyme'}
+{'text': '2 tablespoons dried marjoram'}
+{'text': '1700 ml good quality vegetable stock'}
+{'text': '2 teaspoons soy sauce'}
+{'text': '2 teaspoons yeast extract'}
+{'text': '340 g chestnuts'}
+--------------------------------------------------
+
+37 ---------------------------------------------
+INGREDIENTS: 
+{'text': '34 cup lukewarm water'}
+{'text': '1 egg, lightly beaten'}
+{'text': '14 teaspoon white vinegar'}
+{'text': '2 tablespoons butter, melted'}
+{'text': "2 12 cups bread flour (all purpose won't work)"}
+{'text': '34 teaspoon salt'}
+{'text': 'melted butter'}
+{'text': '8 -9 apples, peeled and grated i.e. Northern Spy or 8 -9 other large green cooking apples'}
+{'text': '34 cup sugar'}
+{'text': '2 teaspoons cinnamon'}
+{'text': '34 cup golden raisin'}
+{'text': '1 tablespoon lemon zest'}
+{'text': '34 cup currants'}
+{'text': '1 cup toasted breadcrumb'}
+{'text': '5 -6 tablespoons butter, melted'}
+--------------------------------------------------
+
+38 ---------------------------------------------
+INGREDIENTS: 
+{'text': 'Sushi rice, recipe follows'}
+{'text': 'Nori'}
+{'text': 'Carrot, julienned'}
+{'text': 'Orange and red bell peppers, julienned'}
+{'text': 'Cucumber, julienned (Chinese B without seeds, or regular is also ok)'}
+{'text': 'Asparagus'}
+{'text': 'Avocado'}
+{'text': 'Scallions, julienned'}
+{'text': 'Black sesame seeds'}
+{'text': 'White sesame seeds'}
+{'text': 'Black sesame seeds/salt combination'}
+{'text': '(c. Television Food Network, G.P.)'}
+{'text': '3 1/3 cups short grain rice'}
+{'text': '4 cups water, plus 1/4 cup water'}
+{'text': '6 tablespoons rice vinegar'}
+{'text': '5 tablespoons sugar'}
+{'text': '3 teaspoons salt'}
+--------------------------------------------------
+
+39 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 pound shrimp (peeled & deveined)'}
+{'text': "1 pound lobster, don't use mock"}
+{'text': "1 pound crabmeat, don't use mock"}
+{'text': '1 can tomato sauce'}
+{'text': '1 can stewed tomatoes'}
+{'text': '1 lg. onion'}
+{'text': '3 cloves garlic'}
+{'text': '1/2 pound okra'}
+{'text': '2 lg. green peppers'}
+{'text': '1 warm pepper'}
+{'text': 'Salt to taste'}
+--------------------------------------------------
+
+40 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 tbsp unsalted butter'}
+{'text': '1 1/3 cup water'}
+{'text': '2/3 cup milk'}
+{'text': '1 lb chicken breasts'}
+{'text': '1/2 cup butter for sauteing'}
+{'text': '1 cayenne pepper'}
+{'text': '1 kicken chicken seasonings'}
+--------------------------------------------------
+
+41 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 tablespoons cooking oil'}
+{'text': '2 cups instant rice'}
+{'text': '14 cup frozen peas (optional but nice touch) or 14 cup carrot (optional but nice touch)'}
+{'text': '12 cup of ready made salsa'}
+{'text': '1 cup chicken broth'}
+{'text': 'cumin'}
+{'text': 'chili powder'}
+--------------------------------------------------
+
+42 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 lb lean ground beef'}
+{'text': '1 lb Polish sausage, sliced'}
+{'text': '12 teaspoon seasoning salt'}
+{'text': '14 teaspoon oregano'}
+{'text': '14 teaspoon basil'}
+{'text': '1 (1 1/2 ounce) envelope dry onion soup mix'}
+{'text': '6 cups boiling water'}
+{'text': '1 (16 ounce) can whole tomatoes'}
+{'text': '1 tablespoon soy sauce'}
+{'text': '1 cup celery, sliced'}
+{'text': '1 cup elbow macaroni, uncooked'}
+{'text': 'grated parmesan cheese'}
+--------------------------------------------------
+
+43 ---------------------------------------------
+INGREDIENTS: 
+{'text': 'All-purpose flour, for dusting'}
+{'text': 'Pate Sucree (page 333)'}
+{'text': 'Vanilla Pastry Cream (page 338)'}
+{'text': '4 cups mixed fresh berries, such as blackberries, blueberries, raspberries, red currants, or sliced strawberries'}
+{'text': '1/2 cup apricot jam (optional)'}
+--------------------------------------------------
+
+44 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 12-2 lbs boneless skinless chicken breasts'}
+{'text': '1 12 cups pesto sauce (see other recipe for prep)'}
+{'text': '1 (15 ounce) can diced tomatoes'}
+{'text': '1 (10 3/4 ounce) can cream of mushroom soup'}
+{'text': '1 (10 3/4 ounce) can cream of chicken soup, with herbs'}
+{'text': '2 cups dry pasta (small, thick shapes)'}
+{'text': '3 tablespoons butter'}
+{'text': '1 12 cups water'}
+--------------------------------------------------
+
+45 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 cup plain yogurt, whisked until smooth'}
+{'text': '3 tablespoons Ginger-Garlic Paste, recipe follows (or 1 tablespoon grated fresh ginger and 3 cloves garlic put through a garlic press or finely minced)'}
+{'text': '1 teaspoon kosher salt'}
+{'text': '1/2 teaspoon freshly ground black pepper'}
+{'text': '1 pound boneless, skinless chicken thighs, poked with a fork, and cut into large bite-sized chunks'}
+{'text': '2 teaspoons olive oil'}
+{'text': '3 tablespoons butter'}
+{'text': '1/3 cup Ginger-Garlic Paste, recipe follows (or 6 cloves garlic and 2-inch thumb ginger minced)'}
+{'text': "2 serrano peppers, minced (seeds removed if you don't want it spicy)"}
+{'text': '2 tablespoons tomato paste'}
+{'text': '1 teaspoon garam masala'}
+{'text': '2 teaspoons paprika'}
+{'text': '8 Roma tomatoes, diced'}
+{'text': '1 1/2 teaspoons kosher salt'}
+{'text': '1 to 2 cups water'}
+{'text': 'Oil, for grilling'}
+{'text': '1 tablespoon dried fenugreek leaves (optional)'}
+{'text': '1/2 cup heavy cream'}
+{'text': 'Minced fresh cilantro, for garnish'}
+{'text': 'Cooked rice, naan, or crusty piece of bread, for serving'}
+{'text': '1/2 cup cloves garlic, whole'}
+{'text': '1/2 cup fresh ginger, peeled, cut into 1/2-inch slices'}
+{'text': '1/4 cup canola oil'}
+--------------------------------------------------
+
+46 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 cups all-purpose flour'}
+{'text': '1 teaspoon baking soda'}
+{'text': '1 teaspoon baking powder'}
+{'text': '1 teaspoon salt'}
+{'text': '12 teaspoon cinnamon (optional)'}
+{'text': '1 cup butter, softened'}
+{'text': '1 cup white sugar'}
+{'text': '1 cup brown sugar'}
+{'text': '2 large eggs'}
+{'text': '1 tablespoon vanilla'}
+{'text': '2 tablespoons butterscotch pudding mix (do not use instant pudding)'}
+{'text': '2 34 cups oats (do not use instant oats)'}
+{'text': '1 cup semi-sweet chocolate chips (optional)'}
+--------------------------------------------------
+
+47 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 pkg. (6.6 oz.) KRAFT Garlic Parmesan Pasta Salad'}
+{'text': '1/2 cup KRAFT Classic Ranch Dressing'}
+{'text': '1 boneless beef sirloin steak (1 lb.), cooked, cut into thin strips'}
+{'text': '1 large green pepper, chopped'}
+{'text': '1 large tomato, chopped'}
+{'text': '1 small red onion, sliced'}
+--------------------------------------------------
+
+48 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 tbsp butter'}
+{'text': '1 brown/cooking onion, finely chopped'}
+{'text': '3 garlic cloves, crushed'}
+{'text': '1 tbsp ginger, grated'}
+{'text': '1/2 tsp or more chilli flakes'}
+{'text': '1/2 tsp tumeric'}
+{'text': '2 carrots, diced'}
+{'text': '1/2 tsp ground coriander'}
+{'text': '1/2 tsp ground cumin'}
+{'text': '2 cup canned tomatoes'}
+{'text': '1 cup red lentils'}
+{'text': '3 cup vegetable stock'}
+--------------------------------------------------
+
+49 ---------------------------------------------
+INGREDIENTS: 
+{'text': '8 red waxy new potatoes, about 1 pound'}
+{'text': 'Salt to taste if desired'}
+{'text': '1 tablespoon butter'}
+{'text': '1 tablespoon finely chopped parsley'}
+--------------------------------------------------
+
+50 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 cup guinness extra stout beer or 1 cup other dark beer'}
+{'text': '1 cup light molasses'}
+{'text': '1 12 teaspoons baking soda'}
+{'text': '2 cups all-purpose flour'}
+{'text': '2 tablespoons ground ginger'}
+{'text': '1 12 teaspoons baking powder'}
+{'text': '34 teaspoon ground cinnamon'}
+{'text': '14 teaspoon ground cloves'}
+{'text': '14 teaspoon fresh ground nutmeg'}
+{'text': '18 teaspoon ground cardamom'}
+{'text': '3 large eggs'}
+{'text': '12 cup sugar'}
+{'text': '12 cup packed dark brown sugar'}
+{'text': '34 cup vegetable oil'}
+{'text': '1 tablespoon minced fresh ginger'}
+{'text': '16 ounces cream cheese, at room temperature'}
+{'text': '12 cup unsalted butter, at room temperature'}
+{'text': '34 teaspoon finely grated orange peel'}
+{'text': '2 cups powdered sugar'}
+{'text': '2 tablespoons finely chopped candied ginger'}
+--------------------------------------------------
+
+51 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 med Eggplant'}
+{'text': '1/4 c. Salad oil'}
+{'text': '3 lrg Tomatoes, peeled'}
+{'text': '2 c. Fresh bread cubes'}
+{'text': '2 Tbsp. Snipped parsley'}
+{'text': '1 cl Garlic'}
+{'text': '1 Tbsp. Salad oil'}
+{'text': '1/4 c. Grated Parmesan cheese'}
+--------------------------------------------------
+
+52 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 c. peanut butter'}
+{'text': '1 egg'}
+{'text': '1 c. sugar'}
+{'text': '1/2 c. minced nuts'}
+{'text': '1 pkg. Hershey Kisses'}
+--------------------------------------------------
+
+53 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 (18 1/4 ounce) package yellow cake mix'}
+{'text': '1 (3 1/2 ounce) package vanilla instant pudding mix'}
+{'text': '14 teaspoon ground allspice'}
+{'text': '1 14 teaspoons ground cinnamon'}
+{'text': '14 teaspoon ground cloves'}
+{'text': '14-12 teaspoon fresh ginger, minced'}
+{'text': '14 teaspoon ground nutmeg'}
+{'text': '14 teaspoon ground mace'}
+{'text': '14 teaspoon salt'}
+{'text': '3 large eggs'}
+{'text': '13 cup sour cream'}
+{'text': '1 cup evaporated milk'}
+{'text': '13 cup vegetable oil'}
+{'text': '18-14 cup golden raisin (chopped)'}
+{'text': 'vanilla ice cream (optional)'}
+{'text': '1 (796 ml) canned peach slices, drained (reserve 3 tbsps for sauce)'}
+{'text': '34 cup butter'}
+{'text': '1 cup brown sugar'}
+{'text': '12-1 teaspoon ground cinnamon'}
+{'text': '3 tablespoons peach juice (reserved, see above)'}
+{'text': '1 tablespoon vanilla extract'}
+{'text': '12 cup dark rum'}
+--------------------------------------------------
+
+54 ---------------------------------------------
+INGREDIENTS: 
+{'text': 'Pam cooking spray'}
+{'text': '12 lb ground turkey'}
+{'text': '1 (16 ounce) can fat-free refried beans'}
+{'text': '1 34 cups salsa (see note in description)'}
+{'text': '1 (4 ounce) can green chili peppers, drained and diced'}
+{'text': '1 teaspoon chili powder'}
+{'text': '3 scallions, sliced'}
+{'text': '1 cup reduced-fat monterey jack cheese, shredded'}
+{'text': '8 burrito-size flour tortillas'}
+{'text': '1 cup salsa (see note in description)'}
+{'text': '12 cup nonfat sour cream (I used light sour cream)'}
+--------------------------------------------------
+
+55 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 teaspoons vegetable oil'}
+{'text': '1 large onion, chopped'}
+{'text': '1 -2 teaspoon jalapeno, diced'}
+{'text': '4 minced garlic cloves'}
+{'text': '1 (398 ml) can refried beans or 1 (398 ml) can refried black beans'}
+{'text': '1 (398 ml) can cream-style corn'}
+{'text': '1 -2 teaspoon cumin'}
+{'text': '1 teaspoon fresh ground pepper'}
+{'text': '1 teaspoon salt'}
+--------------------------------------------------
+
+56 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2-3 overripe medium bananas (see note on ripening in intro)'}
+{'text': '2 cups cake flour'}
+{'text': '1 teaspoon baking soda'}
+{'text': '2 teaspoons baking powder'}
+{'text': '1/2 teaspoon kosher salt'}
+{'text': '1 teaspoon ground cinnamon'}
+{'text': '1/4 teaspoon ground cloves'}
+{'text': '1/4 teaspoon freshly grated nutmeg'}
+{'text': '12 tablespoons unsalted butter (1 1/2 sticks), at room temperature'}
+{'text': '1/2 cup granulated sugar'}
+{'text': '1/2 cup dark brown sugar'}
+{'text': '4 large eggs, at room temperature'}
+{'text': '2 teaspoons pure vanilla extract'}
+{'text': '1 cup buttermilk'}
+{'text': '5 large egg whites'}
+{'text': '10 ounces granulated sugar (a scant 1 1/2 cups)'}
+{'text': 'Pinch of kosher salt'}
+{'text': '1 pound unsalted whipped butter'}
+{'text': '2 medium bananas, sliced'}
+{'text': '1/2 cup dark brown sugar'}
+{'text': '4 tablespoons unsalted butter'}
+--------------------------------------------------
+
+57 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 cup ketchup'}
+{'text': '12 cup packed brown sugar'}
+{'text': '13 cup sugar'}
+{'text': '14 cup honey'}
+{'text': '14 cup molasses'}
+{'text': '2 teaspoons prepared mustard'}
+{'text': '1 12 teaspoons Worcestershire sauce'}
+{'text': '14 teaspoon salt'}
+{'text': '14 teaspoon liquid smoke'}
+{'text': '18 teaspoon pepper'}
+{'text': '1 egg, beaten'}
+{'text': '13 cup quick-cooking oats'}
+{'text': '14 teaspoon onion salt'}
+{'text': '14 teaspoon garlic salt'}
+{'text': '14 teaspoon pepper'}
+{'text': '18 teaspoon salt'}
+{'text': '1 12 lbs ground beef'}
+{'text': '6 hamburger buns, split'}
+--------------------------------------------------
+
+58 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 cup raisins or 1 cup nuts'}
+{'text': 'chocolate, discs'}
+--------------------------------------------------
+
+59 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 pork tenderloin'}
+{'text': '1 pack dried mixed fruit, coarsely chopped'}
+{'text': 'Olive oil'}
+{'text': '1 tablespoon coarsely chopped fresh rosemary leaves'}
+{'text': '1 tablespoon coarsely chopped fresh thyme leaves'}
+{'text': '4 garlic cloves, finely chopped'}
+{'text': '1 tablespoon kosher salt'}
+{'text': '1 tablespoon cracked peppercorns'}
+{'text': 'Parsley, for garnish'}
+{'text': '2 cups water'}
+{'text': '1 cup grits'}
+{'text': '1/4 stick butter'}
+{'text': '1 cup milk, divided'}
+{'text': '1/2 cup grated Cheddar, plus more if desired'}
+{'text': 'Salt and freshly ground black pepper'}
+{'text': '1 cup all-purpose flour'}
+{'text': '4 eggs, for egg wash'}
+{'text': '2 cups panko (Japanese-style bread crumbs)'}
+{'text': 'Oil, for frying'}
+{'text': '1 pint fresh blueberries, plus extra for garnish'}
+{'text': '1 tablespoon sugar'}
+{'text': '1 teaspoon grated lemon peel'}
+{'text': '1 teaspoon grated orange peel'}
+--------------------------------------------------
+
+60 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 pound Roll Of Ground Beef, Partially Frozen'}
+{'text': '1 teaspoon Garlic Salt'}
+{'text': '1 teaspoon Seasoned Salt'}
+{'text': '1 teaspoon Cracked Black Pepper'}
+{'text': '4 slices Provolone-mozzarella Cheese'}
+{'text': '1 Tablespoon Dry Italian Salad Dressing Mix'}
+{'text': '1 cup Marinara Or Pizza Sauce'}
+{'text': '8 whole Kings Hawaiian Dinner Rolls'}
+{'text': 'Additional Burger Toppings Of Choice (onion, Pickle, Etc)'}
+--------------------------------------------------
+
+61 ---------------------------------------------
+INGREDIENTS: 
+{'text': '12 cup finely chopped green onion'}
+{'text': '14 cup finely chopped fresh dill'}
+{'text': '12 cup finely chopped fresh parsley'}
+{'text': '12 cup finely chopped fresh cilantro'}
+{'text': '12 cup butter or 12 cup margarine or 12 cup ghee'}
+{'text': '4 -5 cups cooked rice'}
+--------------------------------------------------
+
+62 ---------------------------------------------
+INGREDIENTS: 
+{'text': '12 cup mayonnaise'}
+{'text': '14 cup ketchup'}
+{'text': '14 teaspoon white vinegar'}
+--------------------------------------------------
+
+63 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 Chicken breast meat'}
+{'text': '1 tsp Seasoning and salt mix (I used Krazy Salt, but plain salt is OK too)'}
+{'text': '1 tsp Sugar'}
+{'text': '1 Black pepper'}
+--------------------------------------------------
+
+64 ---------------------------------------------
+INGREDIENTS: 
+{'text': '5 tomatoes'}
+{'text': '1 small cucumber'}
+{'text': '1 onion'}
+{'text': '1 green pepper'}
+{'text': '200 g feta cheese'}
+{'text': 'olive'}
+{'text': '6 tablespoons olive oil'}
+{'text': 'salt'}
+{'text': 'oregano'}
+--------------------------------------------------
+
+65 ---------------------------------------------
+INGREDIENTS: 
+{'text': '7 cups fresh corn kernels, from 7 ears'}
+{'text': '1 1/2 sticks (6 ounces) unsalted butter, at room temperature'}
+{'text': '1/2 cup granulated sugar'}
+{'text': '1 egg'}
+{'text': '1/2 tablespoon salt'}
+{'text': '1/2 teaspoon baking powder'}
+{'text': '1/2 cup harina de maiz (dried corn flour) *'}
+{'text': '20 dried corn husks, soaked in warm water for 30 minutes*'}
+{'text': '*Can be found in Hispanic grocery stores'}
+--------------------------------------------------
+
+66 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 tablespoon olive oil'}
+{'text': '1 red bell pepper, chopped'}
+{'text': '12 onion, chopped'}
+{'text': '2 garlic cloves, chopped'}
+{'text': '2 (28 ounce) cans baked beans'}
+{'text': '12 cup brown sugar'}
+{'text': '13 cup neelys bbq seasoning, recipe follows'}
+{'text': '14 cup molasses'}
+{'text': '1 cup neelys barbecue sauce, recipe follows'}
+{'text': '34 cup chopped pork or 34 cup beef brisket'}
+--------------------------------------------------
+
+67 ---------------------------------------------
+INGREDIENTS: 
+{'text': '3 cups graham cracker crumbs (about 22 crackers)'}
+{'text': '9 tablespoons butter, melted'}
+{'text': '12 cup sugar'}
+{'text': '4 (8 ounce) packages cream cheese, softened'}
+{'text': '1 12 cups sugar'}
+{'text': '2 tablespoons cornstarch'}
+{'text': '16 ounces container sour cream'}
+{'text': '12 cup freshly squeezed orange juice'}
+{'text': '12 teaspoon vanilla extract'}
+{'text': '5 eggs'}
+{'text': '8 tablespoons butter'}
+{'text': '1 12 lbs about 3 large golden delicious apples, peeled, cored, and cut into 1/2-inch cubes'}
+{'text': '12 cup chopped pecans'}
+{'text': '1 cup sugar'}
+{'text': '12 cup heavy cream'}
+--------------------------------------------------
+
+68 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 cups all-purpose flour'}
+{'text': '1 tablespoon double-acting baking powder'}
+{'text': '2 teaspoons sugar'}
+{'text': '1 1/4 teaspoons salt'}
+{'text': '1/4 teaspoon English-style dry mustard'}
+{'text': '1 cup coarsely grated sharp Cheddar'}
+{'text': '1 large egg'}
+{'text': '1 cup milk'}
+{'text': '1/2 stick (1/4 cup) unsalted butter, melted and cooled'}
+{'text': '1 1/2 teaspoons caraway seeds'}
+--------------------------------------------------
+
+69 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 12 lbs venison (backstrap or tenderloin)'}
+{'text': '12 cup flour'}
+{'text': '13 cup parmesan cheese (grated)'}
+{'text': '1 teaspoon salt'}
+{'text': '4 tablespoons butter'}
+{'text': '14 lb fresh mushrooms (sliced)'}
+{'text': '2 green onions, with tops (chopped)'}
+{'text': '12 cup consomme or 12 cup beef broth'}
+{'text': '2 tablespoons lemon juice'}
+{'text': "14 cup marsala wine (apple juice if you don't l want alcohol)"}
+{'text': 'chopped parsley'}
+--------------------------------------------------
+
+70 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 12 cups milk'}
+{'text': '3 egg yolks'}
+{'text': '12 cup sugar'}
+{'text': 'salt (a few grains)'}
+{'text': '1.5 (4 1/2 teaspoon) envelopes unflavored gelatin'}
+{'text': '14 cup cold water'}
+{'text': '13 cup Grand Marnier'}
+{'text': '1 medium orange, zest of, finely grated'}
+{'text': '1 cup heavy cream, whipped'}
+{'text': '4 egg whites, beaten until stiff, but not dry'}
+--------------------------------------------------
+
+71 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 tsp Cornstarch'}
+{'text': '1/4 tsp ground cinnamon'}
+{'text': '1/8 tsp Salt'}
+{'text': '1/2 tsp grated orange zest'}
+{'text': '2 tbsp Orange juice'}
+{'text': '2 tbsp Dry sherry'}
+{'text': '1 can (16 oz) whole cranberry sauce'}
+{'text': '4 lb Pork Roast'}
+{'text': '1 large red onion, cut into wedges'}
+--------------------------------------------------
+
+72 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 delicata squash - halved lengthwise, seeded, and cut into 2-inch slices'}
+{'text': '1 1/4 cups jasmine rice'}
+{'text': '6 chicken leg quarters with skin, cut into thighs and drumsticks'}
+{'text': '1 cup chicken broth'}
+{'text': '1 (8 ounce) can cream of broccoli soup'}
+{'text': '1 (8 ounce) can drained canned peas'}
+{'text': '2 tablespoons ground dried sage'}
+{'text': '1 teaspoon black pepper'}
+{'text': '2 teaspoons cayenne pepper'}
+{'text': 'salt to taste'}
+--------------------------------------------------
+
+73 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 lb lean ground turkey'}
+{'text': '1 12 tablespoons Worcestershire sauce'}
+{'text': '1 tablespoon ketchup'}
+{'text': '1 teaspoon dried onion flakes'}
+{'text': 'salt & pepper'}
+{'text': '5 flour tortillas (the larger ones)'}
+{'text': '34 cup shredded cheddar cheese'}
+{'text': '2 tablespoons bacon bits'}
+{'text': 'sliced tomatoes'}
+{'text': 'pickle'}
+{'text': 'yellow mustard'}
+--------------------------------------------------
+
+74 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 (12 fluid ounce) cans or bottles light beer'}
+{'text': '2 tablespoons dry crab boil'}
+{'text': '2 pounds large shrimp'}
+--------------------------------------------------
+
+75 ---------------------------------------------
+INGREDIENTS: 
+{'text': '6 ounces bittersweet chocolate (not unsweetened and make sure it has at least 60% cocoa percentage)'}
+{'text': '12 cup unsalted butter, at room temperature'}
+{'text': '2 large eggs, at room temperature'}
+{'text': '1 cup granulated sugar'}
+{'text': '1 tablespoon unsweetened cocoa powder'}
+{'text': '1 teaspoon vanilla extract'}
+{'text': '1 teaspoon brewed espresso (you can add more or you can just not add it at all.....regular brewed or instant coffee will do just)'}
+{'text': '34 teaspoon kosher salt'}
+{'text': '1 cup all-purpose flour'}
+--------------------------------------------------
+
+76 ---------------------------------------------
+INGREDIENTS: 
+{'text': '34 cup plain fat-free Greek yogurt'}
+{'text': '2 tablespoons lemon juice'}
+{'text': '2 garlic cloves, minced'}
+{'text': '1 12 teaspoons ginger, peeled and grated'}
+{'text': '1 12 teaspoons cumin, ground'}
+{'text': '12 teaspoon coriander, ground'}
+{'text': '12 teaspoon curry powder'}
+{'text': '12 teaspoon salt'}
+{'text': '18 teaspoon cayenne'}
+{'text': '1 zucchini, halved lengthwise and then cut into 1-inch pieces'}
+{'text': '1 12 cups cauliflower florets'}
+{'text': '1 red onion, cut into 12 wedges'}
+{'text': '1 tablespoon cilantro, chopped'}
+{'text': '1 tablespoon mint, chopped'}
+--------------------------------------------------
+
+77 ---------------------------------------------
+INGREDIENTS: 
+{'text': '9 tablespoons (1 stick plus 1 tablespoon) unsalted butter, room temperature, plus more for pan'}
+{'text': '1 2/3 cups all-purpose flour'}
+{'text': '1 teaspoon baking powder'}
+{'text': '3/4 teaspoon coarse salt'}
+{'text': '1 cup packed light brown sugar'}
+{'text': '2 large eggs'}
+{'text': '1 teaspoon pure vanilla extract'}
+{'text': '1 cup sliced almonds (about 3 ounces), toasted'}
+{'text': '2 2/3 cups raspberries'}
+--------------------------------------------------
+
+78 ---------------------------------------------
+INGREDIENTS: 
+{'text': '220 g chicken breast fillets'}
+{'text': 'cooking spray'}
+{'text': '12 cup low fat cottage cheese'}
+{'text': '3 celery ribs, trimmed and chopped'}
+{'text': '4 green onions, sliced thinly'}
+{'text': '2 teaspoons fresh dill, chopped coarsely'}
+{'text': '1 garlic clove, crushed'}
+{'text': '6 small iceberg lettuce leaves'}
+--------------------------------------------------
+
+79 ---------------------------------------------
+INGREDIENTS: 
+{'text': '8 ounces white cheddar cheese, shredded'}
+{'text': '1 (8 ounce) package cream cheese, softened'}
+{'text': '1 teaspoon garlic powder'}
+{'text': '18 teaspoon ground red pepper'}
+{'text': 'paprika'}
+{'text': '1 cinnamon stick'}
+{'text': '1 bay leaf'}
+--------------------------------------------------
+
+80 ---------------------------------------------
+INGREDIENTS: 
+{'text': '6 tablespoons chopped onions (chop fine)'}
+{'text': '3 tablespoons vegetable oil'}
+{'text': '1 cup catsup'}
+{'text': '14 cup vinegar'}
+{'text': '14 cup corn syrup'}
+{'text': '2 tablespoons Worcestershire sauce'}
+{'text': '2 teaspoons prepared mustard'}
+{'text': '18 teaspoon salt'}
+--------------------------------------------------
+
+81 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 Tbsp. KRAFT Lite Zesty Italian Dressing'}
+{'text': "1/4 cup chopped onions King Sooper's 1 lb For $0.99 thru 02/09"}
+{'text': '5 fresh asparagus spears, chopped'}
+{'text': '4 eggs'}
+{'text': '1 plum tomato, chopped'}
+{'text': '1/4 cup OSCAR MAYER Turkey Bacon Bits'}
+{'text': '2 tsp. chopped fresh thyme'}
+{'text': '1/2 cup KRAFT 2% Milk Shredded Cheddar Cheese'}
+--------------------------------------------------
+
+82 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 whole Lemon, Juiced'}
+{'text': '1 teaspoon Salt'}
+{'text': '1/2 teaspoons Fresh Ground Black Pepper'}
+{'text': '3 cloves Garlic, Minced Or Pressed'}
+{'text': '3/4 cups Vegetable Or Canola Oil (may Require Up To 1 Cup)'}
+{'text': '1/2 pounds Bacon, cooked and crumbled'}
+{'text': '23 cups Slivered Almonds'}
+{'text': '2 heads Romaine Lettuce (or 4 Hearts), Torn Or Cut Into Bite-sized Strips'}
+{'text': '1/2 Tablespoons Grease From Cooking Bacon'}
+{'text': '2 cups Cherry, Grape, Or Pear Tomatoes, Halved'}
+{'text': '1 cup Grated Swiss Cheese'}
+{'text': '13 cups Grated Parmesan Cheese'}
+{'text': '1 bag Caesar Croutons'}
+--------------------------------------------------
+
+83 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 lbs fresh Brussels sprouts'}
+{'text': '2 red bell peppers, seeded, sliced thin'}
+{'text': '1 onions or 2 shallots, sliced thin'}
+{'text': '2 garlic cloves, minced'}
+{'text': '6 tablespoons butter'}
+{'text': 'salt'}
+{'text': 'pepper'}
+{'text': '2 tablespoons lemon juice'}
+--------------------------------------------------
+
+84 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 (3 -4 lb) whole chickens, quartered'}
+{'text': '4 tablespoons butter'}
+{'text': '1 12 tablespoons salt (OR LESS)'}
+{'text': '1 large onion, diced'}
+{'text': '6 cups boiling water'}
+{'text': '4 teaspoons savory'}
+{'text': '3 cups potatoes, peeled and diced'}
+{'text': '3 cups carrots, diced'}
+{'text': 'pepper'}
+--------------------------------------------------
+
+85 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 12-2 lbs sirloin tip roast'}
+{'text': '12 teaspoon garlic powder'}
+{'text': '2 onions, sliced'}
+{'text': '12 cup beef broth'}
+{'text': '12 cup strong black coffee'}
+{'text': '1 teaspoon salt'}
+{'text': '14 teaspoon oregano'}
+{'text': '14 teaspoon rosemary'}
+{'text': '14 teaspoon pepper'}
+{'text': '2 tablespoons flour'}
+{'text': '1 teaspoon margarine'}
+--------------------------------------------------
+
+86 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 large onion, quartered'}
+{'text': '1 medium tomatoes, deseeded and quartered'}
+{'text': '1 clove garlic'}
+{'text': 'plain cooked noodles (any kind and as much or as little as you want)'}
+{'text': 'salt and pepper'}
+{'text': 'water'}
+--------------------------------------------------
+
+87 ---------------------------------------------
+INGREDIENTS: 
+{'text': '4 1/2 cups all-purpose flour'}
+{'text': '2 teaspoons baking soda'}
+{'text': '2 teaspoons salt'}
+{'text': '1 cup butter, softened'}
+{'text': '1 cup butter flavored shortening'}
+{'text': '1 1/2 cups white sugar'}
+{'text': '1 1/2 cups packed light brown sugar'}
+{'text': '4 eggs'}
+{'text': '1 tablespoon vanilla extract'}
+{'text': '2 tablespoons skim milk'}
+{'text': '4 cups semisweet chocolate chips'}
+{'text': '3/4 cup finely chopped crystallized ginger'}
+--------------------------------------------------
+
+88 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 (15 1/4 ounce) can pineapple chunks, drained'}
+{'text': '1 (11 ounce) can mandarin oranges, drained'}
+{'text': '2 cups miniature marshmallows'}
+{'text': '12 cup sour cream'}
+{'text': 'lettuce leaf'}
+{'text': '6 small bananas, split lengthwise'}
+{'text': '14 cup flaked coconut'}
+{'text': '6 maraschino cherries'}
+--------------------------------------------------
+
+89 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 (12 ounce) loaf French bread'}
+{'text': '1/2 cup butter at room temperature (divided)'}
+{'text': '4 teaspoons garlic powder, divided'}
+{'text': '1 (8 ounce) bottle blue cheese salad dressing'}
+{'text': '1/2 cup shredded mozzarella cheese, divided'}
+{'text': '1 (3 ounce) package grated Parmesan cheese, divided'}
+--------------------------------------------------
+
+90 ---------------------------------------------
+INGREDIENTS: 
+{'text': '5 zucchini'}
+{'text': '1 egg white'}
+{'text': '23 cup flour'}
+{'text': '1 tablespoon cornstarch'}
+{'text': '12 teaspoon salt'}
+{'text': '12 teaspoon garlic powder'}
+{'text': 'cooking spray'}
+--------------------------------------------------
+
+91 ---------------------------------------------
+INGREDIENTS: 
+{'text': '14 cup butter or 14 cup margarine'}
+{'text': '14 cup chopped onion'}
+{'text': '14 cup all-purpose flour'}
+{'text': '1 (14 1/2 ounce) can chicken broth'}
+{'text': '1 (12 fluid ounce) can evaporated milk'}
+{'text': '2 -3 baking potatoes, baked or microwaved'}
+{'text': 'salt & fresh ground pepper'}
+{'text': '4 slices bacon, cooked and crumbled'}
+{'text': '12 cup shredded cheddar cheese (2 oz.)'}
+{'text': '3 tablespoons sliced green onions'}
+--------------------------------------------------
+
+92 ---------------------------------------------
+INGREDIENTS: 
+{'text': '4-6 pork chops (seasoned with salt & pepper)'}
+{'text': '2-3 c. cooked rice'}
+{'text': '1 (16 ounce.) can tomatoes (Italian style or possibly plain)'}
+--------------------------------------------------
+
+93 ---------------------------------------------
+INGREDIENTS: 
+{'text': '2 whole Eggs (separate The Yolks And Whites)'}
+{'text': '1/2 cups Sugar, Divided'}
+{'text': '2 Tablespoons Plus 2 Teaspoons Of Milk'}
+{'text': '1/2 teaspoons Vanilla Extract'}
+{'text': '1/2 cups Flour'}
+{'text': '1 teaspoon Baking Powder'}
+{'text': '18 teaspoons Salt'}
+{'text': '2 Tablespoons Plus 2 Teaspoons Milk'}
+{'text': '1/2 cans (12oz Can) Evaporated Milk'}
+{'text': '1/2 cans (14 Oz. Can) Sweetened Condensed Milk'}
+{'text': '1 stick Butter'}
+{'text': '1/2 cans (13.4 Oz Can) Dulce De Leche'}
+{'text': '2 cups Powdered Sugar (up To 3 Cups)'}
+--------------------------------------------------
+
+94 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 cup instant non-fat powdered milk'}
+{'text': '13 cup Splenda granular'}
+{'text': '13 cup boiling water'}
+{'text': '3 tablespoons margarine, melted'}
+{'text': '12 cup unsweetened applesauce'}
+{'text': '1 teaspoon cinnamon'}
+{'text': '2 12 cups quick oatmeal'}
+{'text': '1 cup raisins'}
+{'text': '1 cup sunflower seeds'}
+{'text': '1 cup chopped dates'}
+{'text': '12 cup chopped nuts (optional)'}
+--------------------------------------------------
+
+95 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 wild fowl, cleaned'}
+{'text': '2 lbs apples'}
+{'text': '1 cup cider'}
+{'text': '1 onion'}
+{'text': 'cornstarch'}
+{'text': 'fat'}
+{'text': 'molasses'}
+{'text': '2 ounces herbs'}
+--------------------------------------------------
+
+96 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1 (8 ounce) package cream cheese, room temperature'}
+{'text': '1 12 cups butter, room temperature'}
+{'text': '2 12 cups sugar'}
+{'text': '12 teaspoon salt'}
+{'text': '6 eggs'}
+{'text': '3 cups cake flour'}
+{'text': '1 tablespoon vanilla'}
+{'text': '1 teaspoon lemon extract or 1 teaspoon almond extract'}
+--------------------------------------------------
+
+97 ---------------------------------------------
+INGREDIENTS: 
+{'text': '14 cup sesame seeds, toasted'}
+{'text': '2 cups crispy rice cereal'}
+{'text': '2 cups rolled oats, large flake, toasted'}
+{'text': '14 cup shredded coconut'}
+{'text': '14 cup sunflower seeds'}
+{'text': '14 cup pumpkin seeds'}
+{'text': '14 cup sliced almonds, toasted'}
+{'text': '14 cup cranberries'}
+{'text': '12 cup honey'}
+{'text': '12 cup peanut butter'}
+{'text': '13 cup vegetable oil'}
+{'text': '12 cup brown sugar'}
+--------------------------------------------------
+
+98 ---------------------------------------------
+INGREDIENTS: 
+{'text': '1/4 c. finely minced onion'}
+{'text': '1/4 c. finely minced green pepper'}
+{'text': '2 Tbsp. extra virgin olive oil'}
+{'text': '1 lb russet potatoes peeled and thinly sliced'}
+{'text': '1 tsp salt'}
+{'text': "1 tsp Chef Zader's Seasoning (recipe in instructions)"}
+{'text': '1/2 tsp salt'}
+{'text': '3/4 lb sweet potatoes peeled and thinly sliced'}
+--------------------------------------------------
+
+99 ---------------------------------------------
+INGREDIENTS: 
+{'text': 'apples'}
+{'text': 'cinnamon'}
+{'text': 'sugar'}
+--------------------------------------------------
+
