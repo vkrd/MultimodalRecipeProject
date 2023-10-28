@@ -38,7 +38,7 @@ def get_embedding(image_paths, recipe, ingredients, image_importance=0.5):
         if image_importance == 0.0:
             image_feature = np.zeros(512)
         else:
-            images = [Image.open(IMAGE_FILE_LOCATIONS + image_path) for image_path in image_paths]*2
+            images = [Image.open(IMAGE_FILE_LOCATIONS + image_path) for image_path in image_paths]
             inputs = processor(images=images, return_tensors="pt", padding=True)
             image_features = model.get_image_features(inputs['pixel_values']).numpy()
             image_feature = image_features.mean(axis=0)
