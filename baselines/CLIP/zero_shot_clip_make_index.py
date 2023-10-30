@@ -16,7 +16,7 @@ model.to(device)
 model.eval()
 
 EXPERIMENT_NAME = "zero_shot_clip"
-IMAGE_IMPORTANCE = 0.0
+IMAGE_IMPORTANCE = 1.0
 IMAGE_FILE_LOCATIONS = "../../data/preprocessed_data/"
 SPLIT = "val"
 
@@ -28,23 +28,24 @@ def get_embedding(image_paths, recipe, ingredients, image_importance=0.5):
         tokenized_text = processor(text, truncation=False, padding='max_length', max_length=77*batches, return_tensors='pt')
 
         return_dict = dict()
-        return_dict['input_ids'] = tokenized_text['input_ids'].reshape(batches, max_length)
-        return_dict['attention_mask'] = tokenized_text['attention_mask'].reshape(batches, max_length)
+        return_dict['input_ids'] = tokenized_text['input_ids'].reshape(batches, max_length).to(device)
+        return_dict['attention_mask'] = tokenized_text['attention_mask'].reshape(batches, max_length).to(device)
 
         weight = [return_dict['attention_mask'][i].sum().item() for i in range(batches)]
-        return return_dict, np.array(weight)/sum(weight)
+        weight = torch.tensor(weight).to(device)
+        return return_dict, weight/torch.sum(weight)
 
     with torch.no_grad():
         if image_importance == 0.0:
-            image_feature = np.zeros(512)
+            image_feature = torch.zeros(512).to(device)
         else:
             images = [Image.open(IMAGE_FILE_LOCATIONS + image_path) for image_path in image_paths]
-            inputs = processor(images=images, return_tensors="pt", padding=True)
-            image_features = model.get_image_features(inputs['pixel_values']).numpy()
-            image_feature = image_features.mean(axis=0)
+            inputs = processor(images=images, return_tensors="pt", padding=True).to(device)
+            image_features = model.get_image_features(inputs['pixel_values'])
+            image_feature = image_features.mean(dim=0)
 
         if image_importance == 1.0:
-            text_feature = np.zeros(512)
+            text_feature = torch.zeros(512).to(device)
         else:
             text = "".join([
                 "Ingredients: \n",
@@ -54,9 +55,9 @@ def get_embedding(image_paths, recipe, ingredients, image_importance=0.5):
             ])
 
             input_tokens, weight = split_long_text_into_chunks(text)
-            text_features = model.get_text_features(**input_tokens).numpy()
-            
-            text_feature = np.dot(weight, text_features)
+            text_features = model.get_text_features(**input_tokens)
+
+            text_feature = torch.matmul(weight, text_features)
         
         return image_importance * image_feature + (1 - image_importance) * text_feature
 
@@ -94,6 +95,8 @@ for row in tqdm(X_reference.itertuples(), total=len(X_reference)):
     recipe = row.recipe
     ingredients = row.ingredients
     embedding = get_embedding(image_paths, recipe, ingredients, image_importance=IMAGE_IMPORTANCE)
+    embedding = embedding.cpu().detach()
+    embedding = embedding / np.linalg.norm(embedding)
     index.add(np.expand_dims(embedding, axis=0))
     ids.append(row.id)
 
