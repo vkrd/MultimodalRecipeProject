@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
-"""CLIP_Finetune_and_Evaluation.ipynb
+"""
+Reference:
+    https://github.com/openai/CLIP
+    https://github.com/openai/CLIP/issues/83
+    https://github.com/shashnkvats/Indofashionclip/
 """
 
 !pip install transformers
