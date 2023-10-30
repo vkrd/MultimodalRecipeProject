@@ -18,8 +18,8 @@ import wandb
 
 
 
-SOURCE_LAMBDA = 0.5
-QUERY_LAMBA = 0.5
+SOURCE_LAMBDA = 0.0
+QUERY_LAMBA = 0.0
 CSV_NAME = "zero_shot_clip_" + str(SOURCE_LAMBDA) + "/" + str(QUERY_LAMBA) + "_image_importance_results.csv"
 
 wandb.init(
@@ -164,5 +164,5 @@ print("DIVERSITY", (len(set(df_pool)))/4372)
 wandb.log({
     "improvement": sum([i == 2 for i in final_answers])/len(final_answers),
     "avg_sim": np.mean(df_result['similarity']),
-    "diversity": (len(set(df_pool)))/4372
+    "diversity": (len(set(df_result["id_pool"])))/4372
     })
