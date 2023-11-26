@@ -16,7 +16,7 @@ model.to(device)
 model.eval()
 
 EXPERIMENT_NAME = "zero_shot_clip"
-IMAGE_IMPORTANCE = 0.0
+IMAGE_IMPORTANCE = 0.5
 IMAGE_FILE_LOCATIONS = "../../data/preprocessed_data/"
 SPLIT = "val"
 
@@ -94,6 +94,7 @@ for row in tqdm(X_reference.itertuples(), total=len(X_reference)):
     recipe = row.recipe
     ingredients = row.ingredients
     embedding = get_embedding(image_paths, recipe, ingredients, image_importance=IMAGE_IMPORTANCE)
+    embedding = embedding / np.linalg.norm(embedding)
     index.add(np.expand_dims(embedding, axis=0))
     ids.append(row.id)
 

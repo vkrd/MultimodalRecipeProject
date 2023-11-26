@@ -17,7 +17,7 @@ model.eval()
 
 
 EXPERIMENT_NAME = "zero_shot_clip_0.0"
-IMAGE_IMPORTANCE = 0.5
+IMAGE_IMPORTANCE = 0.0
 IMAGE_FILE_LOCATIONS = "../../data/preprocessed_data/"
 SPLIT = "test"
 
@@ -97,6 +97,7 @@ print("Finding closest target")
 with torch.no_grad():
     input_tokens = processor("healthy", truncation=False, padding='max_length', max_length=77, return_tensors='pt')
     modification = model.get_text_features(**input_tokens).numpy()[0]
+    modification = modification / np.linalg.norm(modification)
 
 average_distance = 0.0
 
@@ -106,11 +107,12 @@ for row in tqdm(X_reference.itertuples(), total=len(X_reference)):
     ingredients = row.ingredients
     embedding = get_embedding(image_paths, recipe, ingredients, IMAGE_IMPORTANCE)
     target_embedding = embedding + modification
-    D, I = index.search(np.expand_dims(embedding, axis=0), 1)
+    target_embedding = target_embedding / np.linalg.norm(target_embedding)
+    D, I = index.search(np.expand_dims(target_embedding, axis=0), 1)
     
     predicted_ids.append(ids[I[0][0]])
     average_distance += D[0][0]
-    distances.append(D[0][0])
+    distances.append(1 - D[0][0])
 
 final_df = pd.DataFrame({"input_id": X_reference["id"], "predicted_id": predicted_ids, "distance": distances})
 final_df.to_csv("../../data/index_outputs/{}/{}_image_importance_results.csv".format(EXPERIMENT_NAME, IMAGE_IMPORTANCE), index=False)
