@@ -16,8 +16,8 @@ model.to(device)
 model.eval()
 
 
-EXPERIMENT_NAME = "zero_shot_clip_0.0"
-IMAGE_IMPORTANCE = 0.0
+EXPERIMENT_NAME = "zero_shot_clip_1.0"
+IMAGE_IMPORTANCE = 1.0
 IMAGE_FILE_LOCATIONS = "../../data/preprocessed_data/"
 SPLIT = "test"
 
@@ -29,23 +29,24 @@ def get_embedding(image_paths, recipe, ingredients, image_importance=0.5):
         tokenized_text = processor(text, truncation=False, padding='max_length', max_length=77*batches, return_tensors='pt')
 
         return_dict = dict()
-        return_dict['input_ids'] = tokenized_text['input_ids'].reshape(batches, max_length)
-        return_dict['attention_mask'] = tokenized_text['attention_mask'].reshape(batches, max_length)
+        return_dict['input_ids'] = tokenized_text['input_ids'].reshape(batches, max_length).to(device)
+        return_dict['attention_mask'] = tokenized_text['attention_mask'].reshape(batches, max_length).to(device)
 
         weight = [return_dict['attention_mask'][i].sum().item() for i in range(batches)]
-        return return_dict, np.array(weight)/sum(weight)
+        weight = torch.tensor(weight).to(device)
+        return return_dict, weight/torch.sum(weight)
 
     with torch.no_grad():
         if image_importance == 0.0:
-            image_feature = np.zeros(512)
+            image_feature = torch.zeros(512).to(device)
         else:
             images = [Image.open(IMAGE_FILE_LOCATIONS + image_path) for image_path in image_paths]
-            inputs = processor(images=images, return_tensors="pt", padding=True)
-            image_features = model.get_image_features(inputs['pixel_values']).numpy()
-            image_feature = image_features.mean(axis=0)
+            inputs = processor(images=images, return_tensors="pt", padding=True).to(device)
+            image_features = model.get_image_features(inputs['pixel_values'])
+            image_feature = image_features.mean(dim=0)
 
         if image_importance == 1.0:
-            text_feature = np.zeros(512)
+            text_feature = torch.zeros(512).to(device)
         else:
             text = "".join([
                 "Ingredients: \n",
@@ -55,9 +56,9 @@ def get_embedding(image_paths, recipe, ingredients, image_importance=0.5):
             ])
 
             input_tokens, weight = split_long_text_into_chunks(text)
-            text_features = model.get_text_features(**input_tokens).numpy()
-            
-            text_feature = np.dot(weight, text_features)
+            text_features = model.get_text_features(**input_tokens)
+
+            text_feature = torch.matmul(weight, text_features)
         
         return image_importance * image_feature + (1 - image_importance) * text_feature
 
@@ -96,8 +97,11 @@ print("Finding closest target")
 
 with torch.no_grad():
     input_tokens = processor("healthy", truncation=False, padding='max_length', max_length=77, return_tensors='pt')
-    modification = model.get_text_features(**input_tokens).numpy()[0]
-    modification = modification / np.linalg.norm(modification)
+    
+    input_tokens["input_ids"] = input_tokens["input_ids"].to(device)
+    input_tokens["attention_mask"] = input_tokens["attention_mask"].to(device)
+    modification = model.get_text_features(**input_tokens).cpu().detach()[0]
+    # modification = modification / np.linalg.norm(modification)
 
 average_distance = 0.0
 
@@ -105,13 +109,13 @@ for row in tqdm(X_reference.itertuples(), total=len(X_reference)):
     image_paths = row.image_path.split(",")
     recipe = row.recipe
     ingredients = row.ingredients
-    embedding = get_embedding(image_paths, recipe, ingredients, IMAGE_IMPORTANCE)
+    embedding = get_embedding(image_paths, recipe, ingredients, IMAGE_IMPORTANCE).cpu().detach()
     target_embedding = embedding + modification
     target_embedding = target_embedding / np.linalg.norm(target_embedding)
     D, I = index.search(np.expand_dims(target_embedding, axis=0), 1)
     
     predicted_ids.append(ids[I[0][0]])
-    average_distance += D[0][0]
+    average_distance += (1 - D[0][0])
     distances.append(1 - D[0][0])
 
 final_df = pd.DataFrame({"input_id": X_reference["id"], "predicted_id": predicted_ids, "distance": distances})
