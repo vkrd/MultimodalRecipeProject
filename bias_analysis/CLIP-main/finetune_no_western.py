@@ -9,7 +9,8 @@ import pandas as pd
 import numpy as np
 import json
 
-def get_embedding(preprocessed_image, recipe, ingredients, model, device="cuda"):
+def get_embedding(preprocessed_image, recipe, ingredients, model, image_preprocessor=None, device="cuda"):
+        preprocessed_image = image_preprocessor(Image.open("/home/ubuntu/data/preprocessed_data/" + preprocessed_image)).unsqueeze(0)
         pre = preprocessed_image.to(device)
         image_feature = model.encode_image(pre)[0]
 
@@ -79,14 +80,15 @@ if __name__ == "__main__":
         running_loss = 0.0
         model.train()
         for rows in tqdm(train_dataloader):
-            this_batch_size = len(rows["image"])
+            this_batch_size = len(rows["image_path"])
             image_features, text_features = torch.zeros((this_batch_size, 512)).to(device), torch.zeros((this_batch_size, 512)).to(device)
             for i in range(this_batch_size):
-                pre = rows["image"][i]
+                # pre = rows["image"][i]
+                pre = rows["image_path"][i]
                 recipe = rows["recipe"][i]
                 ingredients = rows["ingredients"][i]
 
-                image_embeddings, text_embeddings = get_embedding(pre, recipe, ingredients, model, device)
+                image_embeddings, text_embeddings = get_embedding(pre, recipe, ingredients, model, image_preprocessor=preprocess, device=device)
                 image_features[i, :] = image_embeddings
                 text_features[i, :] = text_embeddings
 

@@ -21,7 +21,8 @@ class RecipeDataset(Dataset):
                     continue
             
             d = {
-                "image": image_preprocessor(Image.open("/home/ubuntu/data/preprocessed_data/" + row.image_path)).unsqueeze(0),
+                #"image": image_preprocessor(Image.open("/home/ubuntu/data/preprocessed_data/" + row.image_path)).unsqueeze(0),
+                "image_path": row.image_path,
                 "recipe": row.instructions,
                 "ingredients": row.ingredients
             }
