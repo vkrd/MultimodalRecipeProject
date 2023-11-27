@@ -70,7 +70,7 @@ if __name__ == "__main__":
     train_dataset = RecipeDataset(df, split = train_split, device = device, data_path = DATA_PATH, image_preprocessor = preprocess)
     train_dataloader = DataLoader(train_dataset, batch_size = 32, shuffle = True)
 
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.0000001, weight_decay=0.1, eps=0.000001)
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.000001, weight_decay=0.1, eps=0.000001)
     criteron = torch.nn.CrossEntropyLoss()
 
     batch_size = 32
