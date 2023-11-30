@@ -2,4 +2,4 @@ data
 bias_analysis/arrays
 bias_analysis/CLIP-main/clip/bpe_simple_vocab_16e6.txt.gz
 *.pt
-*.DS_Store
+.DS_Store

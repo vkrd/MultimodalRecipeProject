@@ -28,7 +28,11 @@ with open("human_readable_recipes.txt".format(i+1), "w") as f:
         rec1_ingredients = df[df["id"] == recipe_comparison.iloc[i]["rec1"]]["ingredients"].values[0]
         rec2_ingredients = df[df["id"] == recipe_comparison.iloc[i]["rec2"]]["ingredients"].values[0]
 
+        rec1_title = df[df["id"] == recipe_comparison.iloc[i]["rec1"]]["food_title"].values[0]
+        rec2_title = df[df["id"] == recipe_comparison.iloc[i]["rec2"]]["food_title"].values[0]
+
         recipe1 = "\n".join([
+            "RECIPE 1 - " + rec1_title,
             "Ingredients: ",
             "\n".join(rec1_ingredients.split("/t")),
             "\nInstructions: ",
@@ -36,6 +40,7 @@ with open("human_readable_recipes.txt".format(i+1), "w") as f:
         ])
 
         recipe2 = "\n".join([
+            "RECIPE 2 - " + rec2_title,
             "Ingredients: ",
             "\n".join(rec2_ingredients.split("/t")),
             "\nInstructions: ",
@@ -43,9 +48,7 @@ with open("human_readable_recipes.txt".format(i+1), "w") as f:
         ])
 
         f.write("RECIPE COMPARISON {}\n\n".format(i+1))
-        f.write("RECIPE 1\n")
         f.write(recipe1)
         f.write("\n\n\n")
-        f.write("RECIPE 2\n")
         f.write(recipe2)
         f.write("\n" + "-"*100 + "\n\n\n")
