@@ -18,3 +18,34 @@ for i in range(100):
 recipe_comparison = pd.DataFrame({"id": [i+1 for i in range(100)], "rec1": rec1, "rec2": rec2})
 
 recipe_comparison.to_csv("recipe_comparison.csv", index=False)
+
+# Save in pretty format
+with open("human_readable_recipes.txt".format(i+1), "w") as f:
+    for i in range(100):
+        rec1_instructions = df[df["id"] == recipe_comparison.iloc[i]["rec1"]]["instructions"].values[0]
+        rec2_instructions = df[df["id"] == recipe_comparison.iloc[i]["rec2"]]["instructions"].values[0]
+
+        rec1_ingredients = df[df["id"] == recipe_comparison.iloc[i]["rec1"]]["ingredients"].values[0]
+        rec2_ingredients = df[df["id"] == recipe_comparison.iloc[i]["rec2"]]["ingredients"].values[0]
+
+        recipe1 = "\n".join([
+            "Ingredients: ",
+            "\n".join(rec1_ingredients.split("/t")),
+            "\nInstructions: ",
+            "\n".join(rec1_instructions.split("/t"))
+        ])
+
+        recipe2 = "\n".join([
+            "Ingredients: ",
+            "\n".join(rec2_ingredients.split("/t")),
+            "\nInstructions: ",
+            "\n".join(rec2_instructions.split("/t"))
+        ])
+
+        f.write("RECIPE COMPARISON {}\n\n".format(i+1))
+        f.write("RECIPE 1\n")
+        f.write(recipe1)
+        f.write("\n\n\n")
+        f.write("RECIPE 2\n")
+        f.write(recipe2)
+        f.write("\n" + "-"*100 + "\n\n\n")
